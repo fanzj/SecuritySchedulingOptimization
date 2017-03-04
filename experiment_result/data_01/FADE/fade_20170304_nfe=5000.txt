@@ -1,0 +1,408 @@
+第1个最优解：
+Iter = 18
+Nfe = 2896
+Fitness = 0.435354548510958
+The number of total device = 40
+The number of various devices = 10 10 10 10
+The scheme of allocation = 1 2 2 2|2 2 2 2|2 3 2 2|3 2 2 2|2 1 2 2
+
+第2个最优解：
+Iter = 19
+Nfe = 3055
+Fitness = 0.4352809480853645
+The number of total device = 40
+The number of various devices = 10 10 10 10
+The scheme of allocation = 1 2 2 2|2 2 2 2|2 3 3 2|3 2 2 2|2 1 1 2
+
+第3个最优解：
+Iter = 18
+Nfe = 2909
+Fitness = 0.43512540934510263
+The number of total device = 40
+The number of various devices = 10 10 10 10
+The scheme of allocation = 1 2 2 2|2 2 2 2|2 3 3 2|3 2 2 3|2 1 1 1
+
+第4个最优解：
+Iter = 25
+Nfe = 3988
+Fitness = 0.43403954925363086
+The number of total device = 40
+The number of various devices = 10 10 10 10
+The scheme of allocation = 1 2 2 2|2 2 2 3|2 3 2 2|3 2 2 2|2 1 2 1
+
+第5个最优解：
+Iter = 23
+Nfe = 3676
+Fitness = 0.43516353059106044
+The number of total device = 40
+The number of various devices = 10 10 10 10
+The scheme of allocation = 1 2 2 2|2 2 2 2|2 2 2 2|3 2 2 2|2 2 2 2
+
+第6个最优解：
+Iter = 21
+Nfe = 3388
+Fitness = 0.435354548510958
+The number of total device = 40
+The number of various devices = 10 10 10 10
+The scheme of allocation = 1 2 2 2|2 2 2 2|2 3 2 2|3 2 2 2|2 1 2 2
+
+第7个最优解：
+Iter = 32
+Nfe = 5087
+Fitness = 0.435354548510958
+The number of total device = 40
+The number of various devices = 10 10 10 10
+The scheme of allocation = 1 2 2 2|2 2 2 2|2 3 2 2|3 2 2 2|2 1 2 2
+
+第8个最优解：
+Iter = 28
+Nfe = 4461
+Fitness = 0.4351887554952463
+The number of total device = 40
+The number of various devices = 10 10 10 10
+The scheme of allocation = 1 2 2 2|2 2 2 2|2 2 2 2|3 3 2 2|2 1 2 2
+
+第9个最优解：
+Iter = 23
+Nfe = 3687
+Fitness = 0.43448932859878736
+The number of total device = 40
+The number of various devices = 10 10 10 10
+The scheme of allocation = 1 2 2 1|2 2 2 2|2 3 2 2|3 2 2 3|2 1 2 2
+
+第10个最优解：
+Iter = 15
+Nfe = 2430
+Fitness = 0.4324073388949454
+The number of total device = 40
+The number of various devices = 10 10 10 10
+The scheme of allocation = 1 2 2 2|2 2 2 2|3 2 3 3|2 3 2 2|2 1 1 1
+
+第11个最优解：
+Iter = 18
+Nfe = 2916
+Fitness = 0.435354548510958
+The number of total device = 40
+The number of various devices = 10 10 10 10
+The scheme of allocation = 1 2 2 2|2 2 2 2|2 3 2 2|3 2 2 2|2 1 2 2
+
+第12个最优解：
+Iter = 20
+Nfe = 3233
+Fitness = 0.43482992291463834
+The number of total device = 40
+The number of various devices = 10 10 10 10
+The scheme of allocation = 1 2 2 2|2 2 2 2|3 3 2 2|3 2 2 2|1 1 2 2
+
+第13个最优解：
+Iter = 21
+Nfe = 3399
+Fitness = 0.4350232724384747
+The number of total device = 40
+The number of various devices = 10 10 10 10
+The scheme of allocation = 1 2 2 2|2 1 2 2|2 3 2 2|3 3 2 2|2 1 2 2
+
+第14个最优解：
+Iter = 23
+Nfe = 3692
+Fitness = 0.43258290944040895
+The number of total device = 40
+The number of various devices = 10 10 10 10
+The scheme of allocation = 1 2 2 2|3 2 2 2|2 3 2 2|2 2 2 2|2 1 2 2
+
+第15个最优解：
+Iter = 20
+Nfe = 3247
+Fitness = 0.4346641298989267
+The number of total device = 40
+The number of various devices = 10 10 10 10
+The scheme of allocation = 1 2 2 2|2 2 2 2|3 2 2 2|3 3 2 2|1 1 2 2
+
+第16个最优解：
+Iter = 18
+Nfe = 2924
+Fitness = 0.4346276998804017
+The number of total device = 40
+The number of various devices = 10 10 10 10
+The scheme of allocation = 1 2 2 2|2 2 2 2|2 3 3 3|3 2 2 2|2 1 1 1
+
+第17个最优解：
+Iter = 18
+Nfe = 2900
+Fitness = 0.4352809480853645
+The number of total device = 40
+The number of various devices = 10 10 10 10
+The scheme of allocation = 1 2 2 2|2 2 2 2|2 3 3 2|3 2 2 2|2 1 1 2
+
+第18个最优解：
+Iter = 17
+Nfe = 2740
+Fitness = 0.4347563224890449
+The number of total device = 40
+The number of various devices = 10 10 10 10
+The scheme of allocation = 1 2 2 2|2 2 2 2|3 3 3 2|3 2 2 2|1 1 1 2
+
+第19个最优解：
+Iter = 17
+Nfe = 2772
+Fitness = 0.4351887554952463
+The number of total device = 40
+The number of various devices = 10 10 10 10
+The scheme of allocation = 1 2 2 2|2 2 2 2|2 2 2 2|3 3 2 2|2 1 2 2
+
+第20个最优解：
+Iter = 13
+Nfe = 2129
+Fitness = 0.4343388803476513
+The number of total device = 40
+The number of various devices = 10 10 10 10
+The scheme of allocation = 1 2 2 2|2 2 2 2|3 2 2 2|3 3 3 3|1 1 1 1
+
+第21个最优解：
+Iter = 20
+Nfe = 3211
+Fitness = 0.4346767157783153
+The number of total device = 40
+The number of various devices = 10 10 10 10
+The scheme of allocation = 1 2 2 2|2 1 2 2|2 2 2 2|3 3 2 3|2 2 2 1
+
+第22个最优解：
+Iter = 17
+Nfe = 2748
+Fitness = 0.435354548510958
+The number of total device = 40
+The number of various devices = 10 10 10 10
+The scheme of allocation = 1 2 2 2|2 2 2 2|2 3 2 2|3 2 2 2|2 1 2 2
+
+第23个最优解：
+Iter = 24
+Nfe = 3871
+Fitness = 0.435354548510958
+The number of total device = 40
+The number of various devices = 10 10 10 10
+The scheme of allocation = 1 2 2 2|2 2 2 2|2 3 2 2|3 2 2 2|2 1 2 2
+
+第24个最优解：
+Iter = 28
+Nfe = 4470
+Fitness = 0.4328798234554605
+The number of total device = 40
+The number of various devices = 10 10 10 10
+The scheme of allocation = 1 2 2 2|2 2 2 2|3 2 3 2|2 2 2 3|2 2 1 1
+
+第25个最优解：
+Iter = 27
+Nfe = 4294
+Fitness = 0.435354548510958
+The number of total device = 40
+The number of various devices = 10 10 10 10
+The scheme of allocation = 1 2 2 2|2 2 2 2|2 3 2 2|3 2 2 2|2 1 2 2
+
+第26个最优解：
+Iter = 21
+Nfe = 3400
+Fitness = 0.435354548510958
+The number of total device = 40
+The number of various devices = 10 10 10 10
+The scheme of allocation = 1 2 2 2|2 2 2 2|2 3 2 2|3 2 2 2|2 1 2 2
+
+第27个最优解：
+Iter = 20
+Nfe = 3217
+Fitness = 0.434028353318896
+The number of total device = 40
+The number of various devices = 10 10 10 10
+The scheme of allocation = 1 2 3 2|2 1 2 2|2 3 2 2|3 3 2 2|2 1 1 2
+
+第28个最优解：
+Iter = 27
+Nfe = 4287
+Fitness = 0.43511515506965287
+The number of total device = 40
+The number of various devices = 10 10 10 10
+The scheme of allocation = 1 2 2 2|2 2 2 2|2 2 3 2|3 3 2 2|2 1 1 2
+
+第29个最优解：
+Iter = 22
+Nfe = 3557
+Fitness = 0.4351848376999444
+The number of total device = 40
+The number of various devices = 10 10 10 10
+The scheme of allocation = 1 2 2 2|2 2 2 2|2 3 2 2|3 2 3 2|2 1 1 2
+
+第30个最优解：
+Iter = 25
+Nfe = 5779
+Fitness = 0.4347586540929837
+The number of total device = 40
+The number of various devices = 10 10 10 10
+The scheme of allocation = 1 2 2 2|2 1 2 2|2 2 3 2|3 3 2 2|2 2 1 2
+
+第31个最优解：
+Iter = 21
+Nfe = 3377
+Fitness = 0.43383608039382454
+The number of total device = 40
+The number of various devices = 10 10 10 10
+The scheme of allocation = 1 2 2 1|2 2 2 2|2 3 2 3|3 2 2 3|2 1 2 1
+
+第32个最优解：
+Iter = 18
+Nfe = 2934
+Fitness = 0.43450859115866486
+The number of total device = 40
+The number of various devices = 10 10 10 10
+The scheme of allocation = 1 2 2 2|2 2 2 2|3 2 2 2|3 3 2 3|1 1 2 1
+
+第33个最优解：
+Iter = 10
+Nfe = 1702
+Fitness = 0.4331249537522003
+The number of total device = 40
+The number of various devices = 10 10 10 10
+The scheme of allocation = 1 2 1 2|2 2 3 2|2 2 2 2|3 2 3 2|2 2 1 2
+
+第34个最优解：
+Iter = 27
+Nfe = 4312
+Fitness = 0.4341766747096755
+The number of total device = 40
+The number of various devices = 10 10 10 10
+The scheme of allocation = 1 2 2 2|2 2 2 2|3 3 2 3|3 2 2 2|1 1 2 1
+
+第35个最优解：
+Iter = 15
+Nfe = 2434
+Fitness = 0.4348635059439709
+The number of total device = 40
+The number of various devices = 10 10 10 10
+The scheme of allocation = 1 2 2 2|2 2 2 2|2 2 2 2|3 3 3 3|2 1 1 1
+
+第36个最优解：
+Iter = 20
+Nfe = 3233
+Fitness = 0.43450859115866486
+The number of total device = 40
+The number of various devices = 10 10 10 10
+The scheme of allocation = 1 2 2 2|2 2 2 2|3 2 2 2|3 3 2 3|1 1 2 1
+
+第37个最优解：
+Iter = 28
+Nfe = 4484
+Fitness = 0.435354548510958
+The number of total device = 40
+The number of various devices = 10 10 10 10
+The scheme of allocation = 1 2 2 2|2 2 2 2|2 3 2 2|3 2 2 2|2 1 2 2
+
+第38个最优解：
+Iter = 9
+Nfe = 1538
+Fitness = 0.43361006710464917
+The number of total device = 40
+The number of various devices = 10 10 10 10
+The scheme of allocation = 1 1 2 2|2 2 2 2|2 3 3 3|3 2 2 2|2 2 1 1
+
+第39个最优解：
+Iter = 21
+Nfe = 3406
+Fitness = 0.434483366254479
+The number of total device = 40
+The number of various devices = 10 10 10 10
+The scheme of allocation = 1 2 2 2|2 2 2 2|3 2 2 2|3 2 2 3|1 2 2 1
+
+第40个最优解：
+Iter = 23
+Nfe = 3665
+Fitness = 0.43448932859878736
+The number of total device = 40
+The number of various devices = 10 10 10 10
+The scheme of allocation = 1 2 2 1|2 2 2 2|2 3 2 2|3 2 2 3|2 1 2 2
+
+第41个最优解：
+Iter = 17
+Nfe = 2758
+Fitness = 0.435354548510958
+The number of total device = 40
+The number of various devices = 10 10 10 10
+The scheme of allocation = 1 2 2 2|2 2 2 2|2 3 2 2|3 2 2 2|2 1 2 2
+
+第42个最优解：
+Iter = 23
+Nfe = 3670
+Fitness = 0.435354548510958
+The number of total device = 40
+The number of various devices = 10 10 10 10
+The scheme of allocation = 1 2 2 2|2 2 2 2|2 3 2 2|3 2 2 2|2 1 2 2
+
+第43个最优解：
+Iter = 26
+Nfe = 4153
+Fitness = 0.435354548510958
+The number of total device = 40
+The number of various devices = 10 10 10 10
+The scheme of allocation = 1 2 2 2|2 2 2 2|2 3 2 2|3 2 2 2|2 1 2 2
+
+第44个最优解：
+Iter = 20
+Nfe = 3247
+Fitness = 0.43503321675498446
+The number of total device = 40
+The number of various devices = 10 10 10 10
+The scheme of allocation = 1 2 2 2|2 2 2 2|2 2 2 2|3 3 2 3|2 1 2 1
+
+第45个最优解：
+Iter = 14
+Nfe = 2297
+Fitness = 0.435354548510958
+The number of total device = 40
+The number of various devices = 10 10 10 10
+The scheme of allocation = 1 2 2 2|2 2 2 2|2 3 2 2|3 2 2 2|2 1 2 2
+
+第46个最优解：
+Iter = 24
+Nfe = 3833
+Fitness = 0.434600783748783
+The number of total device = 40
+The number of various devices = 10 10 10 10
+The scheme of allocation = 1 2 2 2|2 2 2 2|3 3 3 2|3 2 2 3|1 1 1 1
+
+第47个最优解：
+Iter = 20
+Nfe = 3220
+Fitness = 0.4341935731379728
+The number of total device = 40
+The number of various devices = 10 10 10 10
+The scheme of allocation = 2 2 2 2|2 2 2 2|2 3 2 2|3 2 2 2|1 1 2 2
+
+第48个最优解：
+Iter = 18
+Nfe = 2921
+Fitness = 0.4346440415651474
+The number of total device = 40
+The number of various devices = 10 10 10 10
+The scheme of allocation = 1 2 2 2|2 2 1 2|2 3 3 2|3 2 3 3|2 1 1 1
+
+第49个最优解：
+Iter = 21
+Nfe = 3360
+Fitness = 0.4345102823860976
+The number of total device = 40
+The number of various devices = 10 10 10 10
+The scheme of allocation = 1 2 2 2|2 2 2 2|2 2 2 3|3 2 2 2|2 2 2 1
+
+第50个最优解：
+Iter = 16
+Nfe = 2593
+Fitness = 0.43512540934510263
+The number of total device = 40
+The number of various devices = 10 10 10 10
+The scheme of allocation = 1 2 2 2|2 2 2 2|2 3 3 2|3 2 2 3|2 1 1 1
+
+The final result:
+fmax = 0.435354548510958
+fmin = 0.4324073388949454
+fmean = 0.43469897674649993
+standard std = 7.457618996478128E-4
+The number of total device = 40
+The number of various devices = 10 10 10 10
+The optimal allocation = 1 2 2 2|2 2 2 2|2 3 2 2|3 2 2 2|2 1 2 2

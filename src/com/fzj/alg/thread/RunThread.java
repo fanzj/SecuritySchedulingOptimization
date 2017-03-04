@@ -12,13 +12,19 @@ public class RunThread {
 
 	public static void main(String[] args) {
 		int t_aI4_size = 50;
-	    int t_aI4_max_nfe = 1000;
-		int t_aI4_max_iter = 20;
-		int t_aI4_run_times = 1;
-		String t_str_data_path = NameSpace.s_str_data_03;
+	    int t_aI4_max_nfe = 5000;
+		int t_aI4_max_iter = 100;
+		int t_aI4_run_times = 50;
+		String t_str_data_path = NameSpace.s_str_data_01;
 		
-		Thread t_aTC_alg_thread = new AlgThread(NameSpace.s_str_pso,t_aI4_size, t_aI4_max_nfe, t_aI4_max_iter, t_aI4_run_times,t_str_data_path);
-		t_aTC_alg_thread.start();
+//		Thread t_aTC_alg_thread = new AlgThread(NameSpace.s_str_dednspso,t_aI4_size, t_aI4_max_nfe, t_aI4_max_iter, t_aI4_run_times,t_str_data_path);
+//		t_aTC_alg_thread.start();
+		
+//		Thread t_aTC_alg_thread = new AlgThread(NameSpace.s_str_pso,t_aI4_size, t_aI4_max_nfe, t_aI4_max_iter, t_aI4_run_times,t_str_data_path);
+//		t_aTC_alg_thread.start();
+		
+		Thread t_aTC_fade_thread = new AlgThread(NameSpace.s_str_fade,t_aI4_size, t_aI4_max_nfe, t_aI4_max_iter, t_aI4_run_times,t_str_data_path);
+		t_aTC_fade_thread.start();
 		
 	/*	Thread t_aTC_pso_thread = new AlgThread(NameSpace.s_str_pso,t_aI4_size, t_aI4_max_nfe, t_aI4_max_iter, t_aI4_run_times,t_str_data_path);
 		t_aTC_pso_thread.start();

@@ -251,7 +251,7 @@ public class FireSparkStrategy extends AStrategy {
 				saveFitness(m_aTC_bestFireSpark);
 				m_aI4_cur_nfe++;
 
-				if (Double.compare(t_aTC_fireSpark.getM_aI8_fitness(), t_aTC_fireSpark.getM_aI8_fitness()) >= 0) {
+				if (Double.compare(t_aTC_fireSpark.getM_aI8_fitness(), t_aTC_spark.getM_aI8_fitness()) >= 0) {
 					m_aTC_population[t_aI4_i] = t_aTC_fireSpark;
 				}
 			}

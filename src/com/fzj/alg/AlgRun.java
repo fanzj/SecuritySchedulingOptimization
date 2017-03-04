@@ -67,6 +67,8 @@ public class AlgRun {
 				t_aTC_strategy = new WWOStrategy(m_aI4_size, m_aI4_max_nfe, m_aI4_max_iter, t_aTC_ssm, m_str_data_path);
 			}else if(m_str_alg_type.equals(NameSpace.s_str_pwwo)){
 				t_aTC_strategy = new PWWOStrategy(m_aI4_size, m_aI4_max_nfe, m_aI4_max_iter, t_aTC_ssm, m_str_data_path);
+			}else if(m_str_alg_type.equals(NameSpace.s_str_dednspso)){
+				t_aTC_strategy = new DE_DNSPSOStrategy(m_aI4_size, m_aI4_max_nfe, m_aI4_max_iter, t_aTC_ssm, m_str_data_path);
 			}
 			t_aTC_best_solution = t_aTC_strategy.solve(t_aI4_i+1);
 			double t_aI4_best_fitness = t_aTC_best_solution.getM_aI8_fitness();

@@ -116,6 +116,11 @@ public class NameSpace {
 	public static final String s_str_pwwo = "PWWO";
 	
 	/**
+	 * 改进的DNSPSO
+	 */
+	public static final String s_str_dednspso = "DE_DNSPSO";
+	
+	/**
 	 * txt文件
 	 */
 	public static final String s_str_file_txt = ".txt";
