@@ -8,6 +8,7 @@ import com.fzj.model.SSModel;
 import com.fzj.solution.ASolution;
 import com.fzj.solution.Fitness;
 import com.fzj.utils.FileUtils;
+import com.fzj.utils.TimeUtils;
 import com.fzj.utils.excel.ExcelUtil;
 
 /** 
@@ -134,6 +135,6 @@ public class AlgRun {
 			FileUtils.saveFile(m_str_data_path, m_str_alg_type, t_aTC_strategy.m_str_file_name, t_str_result);
 		}
 			
-		System.out.println(m_str_alg_type+"算法求解安检设备调度问题结束！");
+		System.out.println(m_str_alg_type+"算法求解安检设备调度问题结束！当前时间为："+TimeUtils.getCurrentTime());
 	}
 }

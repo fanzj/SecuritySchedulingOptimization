@@ -147,7 +147,7 @@ public class WWOStrategy extends AStrategy {
 	 * 
 	 * @param f_aTC_wave
 	 */
-	private void refract(WaveSolution f_aTC_wave) {
+	private WaveSolution refract(WaveSolution f_aTC_wave) {
 		WaveSolution t_aTC_wave2 = f_aTC_wave.clone();
 		int[] t_rI4_x2 = t_aTC_wave2.getM_rI4_x();
 		int[] t_rI4_xb = m_aTC_best.getM_rI4_x();
@@ -174,9 +174,11 @@ public class WWOStrategy extends AStrategy {
 			double t_aI8_w = f_aTC_wave.getM_aI8_w() * t_aI8_r;
 			t_aTC_wave2.setM_aI8_w(t_aI8_w);
 			f_aTC_wave = t_aTC_wave2;
+			return t_aTC_wave2;
 		}else {//保留原有解，不做操作
-			
+			return f_aTC_wave;
 		}
+		
 	}
 
 	/**
@@ -237,7 +239,7 @@ public class WWOStrategy extends AStrategy {
 				t_aI4_h--;
 				t_aTC_wave.setM_aI4_h(t_aI4_h);
 				if(t_aI4_h==0){
-					refract(t_aTC_wave);//折射
+					t_aTC_wave = refract(t_aTC_wave);//折射
 				}
 			}
 			m_aTC_population[t_aI4_i] = t_aTC_wave.clone();
