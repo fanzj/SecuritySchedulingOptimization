@@ -57,7 +57,7 @@ public class FileUtils {
 	 * @return
 	 */
 	public static String getResultName(String f_str_alg_name,String f_str_file_type,int f_aI4_max_nfe){
-		SimpleDateFormat t_aTC_sdf = new SimpleDateFormat("yyyyMM");
+		SimpleDateFormat t_aTC_sdf = new SimpleDateFormat("yyyyMMdd");
 		String t_str_file_name = f_str_alg_name.toLowerCase()+"_"+t_aTC_sdf.format(new Date())
 				+"_nfe="+f_aI4_max_nfe+f_str_file_type;
 		return t_str_file_name;
